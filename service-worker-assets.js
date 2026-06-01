@@ -1,6 +1,10 @@
 self.assetsManifest = {
-  "version": "51SckrPf",
+  "version": "mbOWNkB2",
   "assets": [
+    {
+      "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": ".nojekyll"
+    },
     {
       "hash": "sha256-eQOWN3kOtYN0FR5k25977yhdvwFesoMZqrdUrXZVUA4=",
       "url": "_framework/Microsoft.AspNetCore.Components.Forms.wasm"
@@ -158,7 +162,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-+dXrxWxfRKMwDRMgbgTsEgbQYBTq/pLKTuQ9nQBY7Pw=",
+      "hash": "sha256-IKZsGpXeXciFdwxNL5C5JQVhSrlxk0qS+RkzafuCTHw=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -166,7 +170,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-/i/DNqeCiCJPsviz7kNvpmW2mh5guuyI1ijMKqMRPUg=",
+      "hash": "sha256-l+UDGRGXLbn44Kf78EiVT32m7dQy0ez2AbK2KFwdDoc=",
       "url": "_framework/commonemitteramplifierwasp.wasm"
     },
     {
@@ -200,6 +204,66 @@ self.assetsManifest = {
     {
       "hash": "sha256-ctq1ZjzovETMj8Dzu4u+ybvRP9zF3H7BfYO9LTbZRIU=",
       "url": "commonemitteramplifierwasp.styles.css"
+    },
+    {
+      "hash": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=",
+      "url": "css/app.css"
+    },
+    {
+      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "url": "css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "hash": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "url": "css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "url": "favicon.png"
+    },
+    {
+      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "url": "icon-192.png"
+    },
+    {
+      "hash": "sha256-oEo6d+KqX5fjxTiZk/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "url": "icon-512.png"
+    },
+    {
+      "hash": "sha256-MJUqXho8X0OoYo5TuiAVbSR0MoLEHj1DEVzQDWrgyEU=",
+      "url": "images/circuit_cc.png"
+    },
+    {
+      "hash": "sha256-Jm4EgQKhIkQfSUMMtPcSWPV9JpgE8t7TieWuixY1/Ps=",
+      "url": "images/circuit_cc_with_rs.png"
+    },
+    {
+      "hash": "sha256-u/loWtALnkAzU7xeTJmxm5c8bJIUf8icrVNitT+am8w=",
+      "url": "images/circuit_ce.png"
+    },
+    {
+      "hash": "sha256-sqGIk89JkzmCqpLbcONeR/fep/Mf5C1n+e62x+wkb4w=",
+      "url": "images/circuit_ce_with_rs.png"
+    },
+    {
+      "hash": "sha256-h3c5TO5/XIsM+9BnZMpx0lhOp61QclXrXNL4DlIiUiM=",
+      "url": "images/power_supply_schema.png"
+    },
+    {
+      "hash": "sha256-D2I6krH4ygYk7/izA2YcAFuuZllu6z2vObtxqcsgDPw=",
+      "url": "index.html"
+    },
+    {
+      "hash": "sha256-oU4seBwS9yhtGzCfcFsR4/UFhSMF9dRrq9SPOE5m6j0=",
+      "url": "llms.txt"
+    },
+    {
+      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
+      "url": "sample-data/weather.json"
+    },
+    {
+      "hash": "sha256-Ogh64IABiecpLZ6M69y3IOmlPXTcuq8mmKDFHHQFVlY=",
+      "url": "sitemap.xml"
     }
   ]
 };
