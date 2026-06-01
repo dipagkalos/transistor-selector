@@ -101,3 +101,8 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+@media (max-width: 640.98px) {
+    .collapse {
+        display: none !important;
+    }
+}
