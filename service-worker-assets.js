@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "i+vVpKPl",
+  "version": "V6BpE7+D",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -250,7 +250,7 @@ self.assetsManifest = {
       "url": "images/power_supply_schema.png"
     },
     {
-      "hash": "sha256-D2I6krH4ygYk7/izA2YcAFuuZllu6z2vObtxqcsgDPw=",
+      "hash": "sha256-iiktWeL7k97IRqA+aAfGLF9+tcKfXYKXi+B0FM49RzI=",
       "url": "index.html"
     },
     {
