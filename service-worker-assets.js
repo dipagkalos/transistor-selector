@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "9prRX59/",
+  "version": "xOvyS3Eh",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -162,7 +162,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-9qSZ436B0Lf1J/5B56UZ4d6HiK/72v5rjWzVDrW69ms=",
+      "hash": "sha256-BuIg8NLEeZyDwHWBOgnpUlkO6cPChSKJ+PuJc0vqwaQ=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -170,7 +170,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-yvjpWhSsmBN/YMJvRUTp5eL2fvWA4xrOZamLWCuyv7k=",
+      "hash": "sha256-y6LgHf6tCLI2oPiTsIT+mwmDZdt4ibm+JuaXDmtkf/M=",
       "url": "_framework/commonemitteramplifierwasp.wasm"
     },
     {
@@ -250,7 +250,7 @@ self.assetsManifest = {
       "url": "images/power_supply_schema.png"
     },
     {
-      "hash": "sha256-1R5tN1qOMfW7OYkhw0tJCuCozTGYPn3T/xATF2ggYQQ=",
+      "hash": "sha256-55htqtBWtOwJOS1YiGFJwi8MAD1fd+sT0mbtvkCzl1E=",
       "url": "index.html"
     },
     {

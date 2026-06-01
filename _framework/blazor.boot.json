@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "commonemitteramplifierwasp",
   "resources": {
-    "hash": "sha256-lvDnqMixaqovmLj36PMCZbe3cHCPHJ3Cd9kajMN6FrI=",
+    "hash": "sha256-BBHxL2OcUrbazV5oMZaXtOoT3t9zEtDfdI7Ld3OIsdI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -57,7 +57,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-lpL40k5Mft2s7IMh5DBiVaHgzfTxFC3ubMGdd+ELOzE=",
       "System.wasm": "sha256-YSihFa+YInKtLQNBZCK8pNPmas5a97BeIhBK9Cl2Qx8=",
       "System.Private.CoreLib.wasm": "sha256-SFZjFaFaxdNyxEjiIaQ2i024vK4MYzlGDsJEBYxoqtY=",
-      "commonemitteramplifierwasp.wasm": "sha256-yvjpWhSsmBN/YMJvRUTp5eL2fvWA4xrOZamLWCuyv7k="
+      "commonemitteramplifierwasp.wasm": "sha256-y6LgHf6tCLI2oPiTsIT+mwmDZdt4ibm+JuaXDmtkf/M="
     }
   },
   "cacheBootResources": true,
