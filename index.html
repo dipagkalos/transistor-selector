@@ -40,9 +40,20 @@
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
     <script>
-        window.downloadFileFromStream = async (fileName, contentStreamReference) => {
-            const arrayBuffer = await contentStreamReference.arrayBuffer();
-            const blob = new Blob([arrayBuffer]);
+        window.downloadFileFromStream = async (fileName, content) => {
+            let blob;
+
+            // 1. Αν η C# στέλνει 'DotNetStreamReference' (έχει την εντολή arrayBuffer)
+            if (content && typeof content.arrayBuffer === 'function') {
+                const arrayBuffer = await content.arrayBuffer();
+                blob = new Blob([arrayBuffer]);
+            }
+            // 2. Αν η C# στέλνει απευθείας byte[] ή κείμενο (αυτό που μάλλον συμβαίνει τώρα)
+            else {
+                blob = new Blob([content]);
+            }
+
+            // Η διαδικασία κατεβάσματος
             const url = URL.createObjectURL(blob);
             const anchorElement = document.createElement('a');
             anchorElement.href = url;
